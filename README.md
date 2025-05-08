@@ -23,7 +23,7 @@ El objetivo de este ensayo es analizar en profundidad cómo estos dos medios rep
 
 ![Imágen de minecraf education](https://store-images.s-microsoft.com/image/apps.27324.13510798887411471.ef8a86a2-0c72-4a81-a3f0-3aa5515cca32.fbb81079-474d-4c89-84eb-f57f71b89f74?h=720)
 
-### Introducción
+## Introducción
 
 
 ### Minecraft Education como medio híbrido
@@ -36,7 +36,9 @@ Según Manovich, la hibridación ocurre cuando las propiedades y técnicas exclu
 
 La lógica del videojuego se pone al servicio del aprendizaje. Las tareas, misiones y logros propios del juego se reformulan para enseñar desde matemáticas hasta historia. Se incorporan escenarios pedagógicos creados por docentes que aprovechan la mecánica de bloques para desarrollar competencias de forma lúdica.
 
+#### 2. Construcción :construction: + Programación :computer:
 
+El juego no solo permite construir estructuras físicas sino también lógicas, gracias al uso de código (por ejemplo, con MakeCode o bloques tipo Scratch) y herramientas como el "Agent", que automatiza acciones dentro del mundo. Así, se introducen conceptos de pensamiento computacional y resolución de problemas.
 
 ## Re-descubriendo la hibridacion: Caso 2
 
@@ -51,5 +53,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * Mojang Studios; Microsoft. _Minecraft Education_ [en línea]. Redmond: Microsoft, 2023 [consulta: 8 mayo 2025]. Disponible en: https://store-images.s-microsoft.com/image/apps.27324.13510798887411471.ef8a86a2-0c72-4a81-a3f0-3aa5515cca32.fbb81079-474d-4c89-84eb-f57f71b89f74?h=720
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
 
