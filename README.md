@@ -52,6 +52,10 @@ Manovich define varios principios del software que permiten entender la hibridac
 |---|---|---|---|
 |  el mundo se compone de bloques intercambiables, lo que permite construir desde cero cualquier tipo de estructura o simulación.  |  cada sesión es distinta según el objetivo educativo, el diseño del entorno y la interacción entre estudiantes.  |  el uso de comandos, código y robots permite automatizar tareas dentro del mundo virtual.  | conocimientos escolares (geometría, ecología, programación) se convierten en experiencias interactivas manipulables desde una interfaz de juego.  |  
 
+#### 	:bulb: Conclusión
+
+Minecraft Education Edition no es simplemente un videojuego educativo. Es un ejemplo claro de cómo el software permite la convergencia de medios distintos en una experiencia coherente, funcional y culturalmente significativa. Gracias a la posibilidad de manipular datos, automatizar procesos y representar conocimientos en un entorno lúdico, se rompe la separación entre juego, educación, programación y colaboración social juntando todos estos pilares en único medio que no sería posible sin la lógica computacional.
+
 ## Re-descubriendo la hibridacion: Caso 2
 
 ### Referencias y Bibliografía
