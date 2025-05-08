@@ -44,9 +44,9 @@ Según Manovich, la hibridación ocurre cuando las propiedades y técnicas exclu
 
 > La posibilidad de trabajar en red dentro del mismo mundo permite una interacción que simula entornos sociales reales. Los estudiantes colaboran en construcciones, proyectos y soluciones, lo que introduce una capa de comunicación interpersonal similar a la de una red social o un espacio de trabajo colaborativo.
 
-#### Principios del software en acción
+#### :eyeglasses: Identificación de *principios del software*:
 
-Manovich define varios principios del software que permiten entender la hibridación digital. En el caso de Minecraft Education, se observan claramente:
+Manovich define varios principios del software que permiten entender la hibridación digital. En el caso de Minecraft Education, se observan claramente los siguientes:
 
 | Modularidad:  |  Variabilidad: | Automatización:  | Transcodificación:  |   
 |---|---|---|---|
