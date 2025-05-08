@@ -61,6 +61,8 @@ Minecraft Education Edition no es simplemente un videojuego educativo. Es un eje
 ### Referencias y Bibliografía
 
 * MANOVICH, Lev. El software toma el mando. Barcelona: Editorial UOC, 2013.
+* MANOVICH, Lev. "Understanding Hybrid Media". 2007. Disponible en: http://manovich.net/index.php/projects/understanding-hybrid-media
+* MICROSOFT EDUCATION. Minecraft Education. 2023. Disponible en: https://education.minecraft.net
 
 ### Recursos gráficos
 * Mojang Studios; Microsoft. _Minecraft Education_ [en línea]. Redmond: Microsoft, 2023 [consulta: 8 mayo 2025]. Disponible en: https://store-images.s-microsoft.com/image/apps.27324.13510798887411471.ef8a86a2-0c72-4a81-a3f0-3aa5515cca32.fbb81079-474d-4c89-84eb-f57f71b89f74?h=720
