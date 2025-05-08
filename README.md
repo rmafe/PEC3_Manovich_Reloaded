@@ -40,14 +40,23 @@ La lógica del videojuego se pone al servicio del aprendizaje. Las tareas, misio
 
 El juego no solo permite construir estructuras físicas sino también lógicas, gracias al uso de código (por ejemplo, con MakeCode o bloques tipo Scratch) y herramientas como el "Agent", que automatiza acciones dentro del mundo. Así, se introducen conceptos de pensamiento computacional y resolución de problemas.
 
+#### 3. Mundo virtual :desktop_computer: + Experiencia social :people_holding_hands:
+
+La posibilidad de trabajar en red dentro del mismo mundo permite una interacción que simula entornos sociales reales. Los estudiantes colaboran en construcciones, proyectos y soluciones, lo que introduce una capa de comunicación interpersonal similar a la de una red social o un espacio de trabajo colaborativo.
+
+#### Principios del software en acción
+
+Manovich define varios principios del software que permiten entender la hibridación digital. En el caso de Minecraft Education, se observan claramente:
+
+| Modularidad:  |  Variabilidad: | Automatización:  | Transcodificación:  |   
+|---|---|---|---|
+|  el mundo se compone de bloques intercambiables, lo que permite construir desde cero cualquier tipo de estructura o simulación.  |  cada sesión es distinta según el objetivo educativo, el diseño del entorno y la interacción entre estudiantes.  |  el uso de comandos, código y robots permite automatizar tareas dentro del mundo virtual.  | conocimientos escolares (geometría, ecología, programación) se convierten en experiencias interactivas manipulables desde una interfaz de juego.  |  
+
 ## Re-descubriendo la hibridacion: Caso 2
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* MANOVICH, Lev. El software toma el mando. Barcelona: Editorial UOC, 2013.
 
 ### Recursos gráficos
 * Mojang Studios; Microsoft. _Minecraft Education_ [en línea]. Redmond: Microsoft, 2023 [consulta: 8 mayo 2025]. Disponible en: https://store-images.s-microsoft.com/image/apps.27324.13510798887411471.ef8a86a2-0c72-4a81-a3f0-3aa5515cca32.fbb81079-474d-4c89-84eb-f57f71b89f74?h=720
