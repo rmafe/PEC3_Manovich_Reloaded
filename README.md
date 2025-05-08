@@ -34,15 +34,15 @@ Según Manovich, la hibridación ocurre cuando las propiedades y técnicas exclu
 
 #### 1. Juego :video_game: + Educación :book:
 
-La lógica del videojuego se pone al servicio del aprendizaje. Las tareas, misiones y logros propios del juego se reformulan para enseñar desde matemáticas hasta historia. Se incorporan escenarios pedagógicos creados por docentes que aprovechan la mecánica de bloques para desarrollar competencias de forma lúdica.
+> La lógica del videojuego se pone al servicio del aprendizaje. Las tareas, misiones y logros propios del juego se reformulan para enseñar desde matemáticas hasta historia. Se incorporan escenarios pedagógicos creados por docentes que aprovechan la mecánica de bloques para desarrollar competencias de forma lúdica.
 
 #### 2. Construcción :construction: + Programación :computer:
 
-El juego no solo permite construir estructuras físicas sino también lógicas, gracias al uso de código (por ejemplo, con MakeCode o bloques tipo Scratch) y herramientas como el "Agent", que automatiza acciones dentro del mundo. Así, se introducen conceptos de pensamiento computacional y resolución de problemas.
+> El juego no solo permite construir estructuras físicas sino también lógicas, gracias al uso de código (por ejemplo, con MakeCode o bloques tipo Scratch) y herramientas como el "Agent", que automatiza acciones dentro del mundo. Así, se introducen conceptos de pensamiento computacional y resolución de problemas.
 
 #### 3. Mundo virtual :desktop_computer: + Experiencia social :people_holding_hands:
 
-La posibilidad de trabajar en red dentro del mismo mundo permite una interacción que simula entornos sociales reales. Los estudiantes colaboran en construcciones, proyectos y soluciones, lo que introduce una capa de comunicación interpersonal similar a la de una red social o un espacio de trabajo colaborativo.
+> La posibilidad de trabajar en red dentro del mismo mundo permite una interacción que simula entornos sociales reales. Los estudiantes colaboran en construcciones, proyectos y soluciones, lo que introduce una capa de comunicación interpersonal similar a la de una red social o un espacio de trabajo colaborativo.
 
 #### Principios del software en acción
 
