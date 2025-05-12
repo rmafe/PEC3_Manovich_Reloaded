@@ -56,16 +56,33 @@ Manovich define varios principios del software que permiten entender la hibridac
 
 Minecraft Education Edition no es simplemente un videojuego educativo. Es un ejemplo claro de cómo el software permite la convergencia de medios distintos en una experiencia coherente, funcional y culturalmente significativa. Gracias a la posibilidad de manipular datos, automatizar procesos y representar conocimientos en un entorno lúdico, se rompe la separación entre juego, educación, programación y colaboración social juntando todos estos pilares en único medio que no sería posible sin la lógica computacional.
 
-## Re-descubriendo la hibridacion: Caso 2
+## Flight Simulator como medio híbrido: Caso 2
+![Imágen de MS Flight Simulator](https://flightsimulator.azureedge.net/wp-content/uploads/2024/09/MSFS2024_Wallpaper_Desktop-Wide_2560x1440_RGB-2048x1152.jpg)
+### 1. :exploding_head: Simulación + :world_map: Cartografía digital
+
+>El entorno del simulador está construido a partir de mapas satelitales y datos de Bing, combinados con tecnología de modelado procedural. Esto permite representar el mundo físico con gran precisión, incluyendo más de 37.000 aeropuertos, sistemas de navegación reales y cambios atmosféricos en tiempo real.
+
+### 2.:video_game:  Videojuego + :man_teacher: Formación técnica
+
+>Aunque se presenta como un videojuego, su nivel de detalle y realismo lo han convertido en una herramienta para el aprendizaje informal de vuelo. Usuarios aprenden a controlar distintos modelos de avión, a interpretar instrumentos reales, y a seguir rutas de navegación profesional, a menudo en colaboración con otros jugadores o con redes de control aéreo como VATSIM.
+
+### 3. :sunrise_over_mountains: Exploración + :family_man_woman_girl_boy: Comunidad en línea
+
+>El componente social añade otra capa híbrida: los usuarios vuelan simultáneamente en el mismo espacio aéreo virtual, intercambian experiencias y participan en eventos comunitarios. Así, el software conecta la lógica de simulación con la de las plataformas colaborativas y los juegos multijugador masivos.
 
 ### Referencias y Bibliografía
 
 * MANOVICH, Lev. El software toma el mando. Barcelona: Editorial UOC, 2013.
 * MANOVICH, Lev. "Understanding Hybrid Media". 2007. Disponible en: http://manovich.net/index.php/projects/understanding-hybrid-media
 * MICROSOFT EDUCATION. Minecraft Education. 2023. Disponible en: https://education.minecraft.net
+* Richard Fitzpatrick. Projects, peers, passion and play: how Minecraft transforms hybrid teaching. 2023. Teaching Matters, University of Edinburgh. Disponible en: https://blogs.ed.ac.uk/teaching-matters/projects-peers-passion-and-play-how-minecraft-transforms-hybrid-teaching/ [Acceso: 12 mayo 2025].
+* XBOX GAME STUDIOS. Accessibility – Microsoft Flight Simulator 2024. 2024. Disponible en: https://www.flightsimulator.com/accessibility-msfs-2024/ [Acceso: 12 mayo 2025].
+* BROWN, Matt. Microsoft Flight Simulator: every handcrafted airport and the full list of all 37,000 airports. 2020. Windows Central. Disponible en: https://www.windowscentral.com/microsoft-flight-simulator-airports [Acceso: 12 mayo 2025].
+* FSNEWS. Flight Simulator News. 2025. Disponible en: https://fsnews.eu/ [Acceso: 12 mayo 2025].
 
 ### Recursos gráficos
 * Mojang Studios; Microsoft. _Minecraft Education_ [en línea]. Redmond: Microsoft, 2023 [consulta: 8 mayo 2025]. Disponible en: https://store-images.s-microsoft.com/image/apps.27324.13510798887411471.ef8a86a2-0c72-4a81-a3f0-3aa5515cca32.fbb81079-474d-4c89-84eb-f57f71b89f74?h=720
+* XBOX GAME STUDIOS. Microsoft Flight Simulator – Wallpaper. 2024. Disponible en: https://flightsimulator.azureedge.net/wp-content/uploads/2024/09/MSFS2024_Wallpaper_Desktop-Wide_2560x1440_RGB-2048x1152.jpg [Acceso: 12 mayo 2025]. Licencia: Uso promocional autorizado por el desarrollador (uso no comercial).
 ----
 
 
