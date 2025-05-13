@@ -6,7 +6,7 @@
 Autor: Rafael Menéndez Nieto
 
 
-Fecha: 
+Fecha: 13/05/2025 ( versión beta ) 
 
 
 ## Planteamiento
@@ -23,8 +23,9 @@ El objetivo de este ensayo es analizar en profundidad cómo estos dos medios rep
 
 ![Imágen de minecraf education](https://store-images.s-microsoft.com/image/apps.27324.13510798887411471.ef8a86a2-0c72-4a81-a3f0-3aa5515cca32.fbb81079-474d-4c89-84eb-f57f71b89f74?h=720)
 
-## Introducción
+### Introducción
 
+_Minecraft Education Edition_ representa una de las aplicaciones más innovadoras dentro del ámbito educativo digital. A partir de la base de un videojuego conocido por su capacidad de construcción libre, esta versión transforma el entorno de juego en una plataforma de aprendizaje formal, integrando programación y colaboración entre estudiantes. Lejos de ser solo una adaptación lúdica, se convierte en un medio híbrido que combina lógicas de distintos campos, desde la pedagogía hasta el diseño interactivo. En este sentido, resulta un ejemplo muy representativo de cómo el software puede articular diferentes medios en una sola experiencia coherente, siguiendo la lógica que plantea Lev Manovich en su análisis sobre la cultura digital contemporánea.
 
 ### Minecraft Education como medio híbrido
 
@@ -32,43 +33,58 @@ _Minecraft Education Edition_ es una versión adaptada del conocido videojuego _
 
 Según Manovich, la hibridación ocurre cuando las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles. En _Minecraft Education_, esta combinación se puede ver en varios niveles:
 
-#### 1. Juego :video_game: + Educación :book:
+### 1. Juego :video_game: + Educación :book:
 
 > La lógica del videojuego se pone al servicio del aprendizaje. Las tareas, misiones y logros propios del juego se reformulan para enseñar desde matemáticas hasta historia. Se incorporan escenarios pedagógicos creados por docentes que aprovechan la mecánica de bloques para desarrollar competencias de forma lúdica.
 
-#### 2. Construcción :construction: + Programación :computer:
+### 2. Construcción :construction: + Programación :computer:
 
 > El juego no solo permite construir estructuras físicas sino también lógicas, gracias al uso de código (por ejemplo, con MakeCode o bloques tipo Scratch) y herramientas como el "Agent", que automatiza acciones dentro del mundo. Así, se introducen conceptos de pensamiento computacional y resolución de problemas.
 
-#### 3. Mundo virtual :desktop_computer: + Experiencia social :people_holding_hands:
+### 3. Mundo virtual :desktop_computer: + Experiencia social :people_holding_hands:
 
 > La posibilidad de trabajar en red dentro del mismo mundo permite una interacción que simula entornos sociales reales. Los estudiantes colaboran en construcciones, proyectos y soluciones, lo que introduce una capa de comunicación interpersonal similar a la de una red social o un espacio de trabajo colaborativo.
 
-#### :eyeglasses: Identificación de *principios del software*:
-
-Manovich define varios principios del software que permiten entender la hibridación digital. En el caso de Minecraft Education, se observan claramente los siguientes:
+### :eyeglasses: Identificación de *principios del software*:
 
 | Modularidad:  |  Variabilidad: | Automatización:  | Transcodificación:  |   
 |---|---|---|---|
-|  el mundo se compone de bloques intercambiables, lo que permite construir desde cero cualquier tipo de estructura o simulación.  |  cada sesión es distinta según el objetivo educativo, el diseño del entorno y la interacción entre estudiantes.  |  el uso de comandos, código y robots permite automatizar tareas dentro del mundo virtual.  | conocimientos escolares (geometría, ecología, programación) se convierten en experiencias interactivas manipulables desde una interfaz de juego.  |  
+|  El mundo se compone de bloques intercambiables, lo que permite construir desde cero cualquier tipo de estructura o simulación.  |  Cada sesión es distinta según el objetivo educativo, el diseño del entorno y la interacción entre estudiantes.  |  El uso de comandos, código y robots permite automatizar tareas dentro del mundo virtual.  | Conocimientos escolares (geometría, ecología, programación) se convierten en experiencias interactivas manipulables desde una interfaz de juego.  |  
 
-#### 	:bulb: Conclusión
+### 	:bulb: Conclusión
 
 Minecraft Education Edition no es simplemente un videojuego educativo. Es un ejemplo claro de cómo el software permite la convergencia de medios distintos en una experiencia coherente, funcional y culturalmente significativa. Gracias a la posibilidad de manipular datos, automatizar procesos y representar conocimientos en un entorno lúdico, se rompe la separación entre juego, educación, programación y colaboración social juntando todos estos pilares en único medio que no sería posible sin la lógica computacional.
 
 ## Flight Simulator como medio híbrido: Caso 2
 ![Imágen de MS Flight Simulator](https://flightsimulator.azureedge.net/wp-content/uploads/2024/09/MSFS2024_Wallpaper_Desktop-Wide_2560x1440_RGB-2048x1152.jpg)
-### 1. :exploding_head: Simulación + :world_map: Cartografía digital
+### Introducción
+
+*Microsoft Flight Simulator* es un claro ejemplo de cómo el software hibrida múltiples medios para generar una experiencia inmersiva y educativa. No se trata solo de un simulador de vuelo: combina datos meteorológicos en tiempo real, mapas satelitales, modelado 3D de ciudades y aeropuertos, inteligencia artificial para tráfico aéreo, y una plataforma multijugador donde personas de todo el mundo se conectan para compartir rutas, aprender a pilotar o simplemente explorar el planeta desde el aire.
+
+### 1. Simulación  :exploding_head: + Cartografía digital  :world_map:
 
 >El entorno del simulador está construido a partir de mapas satelitales y datos de Bing, combinados con tecnología de modelado procedural. Esto permite representar el mundo físico con gran precisión, incluyendo más de 37.000 aeropuertos, sistemas de navegación reales y cambios atmosféricos en tiempo real.
 
-### 2.:video_game:  Videojuego + :man_teacher: Formación técnica
+### 2.  Videojuego :video_game: +  Formación técnica :man_teacher:
 
 >Aunque se presenta como un videojuego, su nivel de detalle y realismo lo han convertido en una herramienta para el aprendizaje informal de vuelo. Usuarios aprenden a controlar distintos modelos de avión, a interpretar instrumentos reales, y a seguir rutas de navegación profesional, a menudo en colaboración con otros jugadores o con redes de control aéreo como VATSIM.
 
-### 3. :sunrise_over_mountains: Exploración + :family_man_woman_girl_boy: Comunidad en línea
+### 3.  Exploración :sunrise_over_mountains: +  Comunidad en línea :family_man_woman_girl_boy:
 
 >El componente social añade otra capa híbrida: los usuarios vuelan simultáneamente en el mismo espacio aéreo virtual, intercambian experiencias y participan en eventos comunitarios. Así, el software conecta la lógica de simulación con la de las plataformas colaborativas y los juegos multijugador masivos.
+
+### :eyeglasses: Identificación de *principios del software*:
+
+| Transcodificación                                                                 | Automatización                                                                                      | Variabilidad                                                                                             | Modularidad                                                                                      |
+|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| El mundo físico (clima, geografía, tráfico aéreo) se transforma en datos digitales manipulables. | El simulador integra datos meteorológicos, tráfico y navegación en tiempo real sin intervención directa del usuario. | Cada experiencia de vuelo es distinta según el modelo de avión, condiciones meteorológicas, ruta y decisiones del usuario. | Se pueden añadir escenarios personalizados, nuevos modelos de aviones o mejoras desarrolladas por la comunidad. |
+
+### :bulb: Conclusión
+
+*Microsoft Flight Simulator* demuestra cómo el software puede integrar simulación técnica, datos reales y experiencias sociales en una única plataforma. Al mezclar representación geográfica, aprendizaje autodidacta, y juego colaborativo, se convierte en un medio híbrido en el sentido pleno que plantea Manovich ya que no es simplemente una suma de elementos, sino una nueva forma cultural nacida de la lógica del software.
+
+---
+
 
 ### Referencias y Bibliografía
 
