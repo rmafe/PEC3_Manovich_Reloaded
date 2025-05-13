@@ -12,26 +12,24 @@ Fecha: 13/05/2025 ( versión beta )
 ## Planteamiento
 
 
-En este ensayo abordamos el fenómeno de la hibridación mediática dentro del contexto de la cultura digital contemporánea, tomando como referencia las ideas de Lev Manovich sobre el papel del software como motor de transformación cultural. A partir de su propuesta de que el ordenador actúa como un metamedio capaz de absorber y recombinar medios previos, hemos seleccionado dos casos que ilustran esta lógica híbrida de manera ejemplar: Minecraft Education Edition y Microsoft Flight Simulator.
+En este ensayo abordamos el fenómeno de la hibridación mediática dentro del contexto de la cultura digital contemporánea, tomando como referencia las ideas de Lev Manovich sobre el papel del software como motor de transformación cultural. A partir de su propuesta de que el ordenador actúa como un metamedio capaz de absorber y recombinar medios previos, hemos seleccionado dos casos que ilustran esta lógica híbrida de manera ejemplar: Minecraft Education  y Microsoft Flight Simulator.
 
 Ambos ejemplos muestran cómo el software puede unir funciones de medios distintos (juego, simulación, aprendizaje, exploración) para generar nuevas experiencias interactivas. Minecraft Education convierte un entorno lúdico en una herramienta educativa que combina construcción, programación y colaboración social. Por su parte, Microsoft Flight Simulator transforma la simulación de vuelo en una experiencia conectada, basada en datos en tiempo real y aprendizaje informal, que mezcla geolocalización, meteorología y exploración global.
 
 El objetivo de este ensayo es analizar en profundidad cómo estos dos medios representan casos actuales de hibridación según los criterios establecidos por Manovich, prestando atención tanto a sus componentes técnicos como a las experiencias que generan en los usuarios.
 
 
-## Minecraft Education Edition como medio híbrido: Caso 1
+## Minecraft Education como medio híbrido: Caso 1
 
 ![Imágen de minecraf education](https://store-images.s-microsoft.com/image/apps.27324.13510798887411471.ef8a86a2-0c72-4a81-a3f0-3aa5515cca32.fbb81079-474d-4c89-84eb-f57f71b89f74?h=720)
 
 ### Introducción
 
-_Minecraft Education Edition_ representa una de las aplicaciones más innovadoras dentro del ámbito educativo digital. A partir de la base de un videojuego conocido por su capacidad de construcción libre, esta versión transforma el entorno de juego en una plataforma de aprendizaje formal, integrando programación y colaboración entre estudiantes. Lejos de ser solo una adaptación lúdica, se convierte en un medio híbrido que combina lógicas de distintos campos, desde la pedagogía hasta el diseño interactivo. En este sentido, resulta un ejemplo muy representativo de cómo el software puede articular diferentes medios en una sola experiencia coherente, siguiendo la lógica que plantea Lev Manovich en su análisis sobre la cultura digital contemporánea.
+_Minecraft Education_ representa una de las aplicaciones más innovadoras dentro del ámbito educativo digital. A partir de la base de un videojuego conocido por su capacidad de construcción libre, esta versión transforma el entorno de juego en una plataforma de aprendizaje formal, integrando programación y colaboración entre estudiantes. Lejos de ser solo una adaptación lúdica, se convierte en un medio híbrido que combina lógicas de distintos campos, desde la pedagogía hasta el diseño interactivo. En este sentido, resulta un ejemplo muy representativo de cómo el software puede articular diferentes medios en una sola experiencia coherente, siguiendo la lógica que plantea Lev Manovich en su análisis sobre la cultura digital contemporánea.
 
 ### Minecraft Education como medio híbrido
 
-_Minecraft Education Edition_ es una versión adaptada del conocido videojuego _Minecraft_, diseñada específicamente para entornos educativos. No es solo un juego ni una simple herramienta de enseñanza: es un entorno interactivo que hibrida diversas lógicas mediáticas, permitiendo a docentes y estudiantes construir experiencias significativas dentro de un mundo virtual.
-
-Según Manovich, la hibridación ocurre cuando las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles. En _Minecraft Education_, esta combinación se puede ver en varios niveles:
+_Minecraft Education_ es una versión adaptada del conocido videojuego _Minecraft_, diseñada específicamente para entornos educativos. No es solo un juego ni una simple herramienta de enseñanza: es un entorno interactivo que hibrida diversas lógicas mediáticas, permitiendo a docentes y estudiantes construir experiencias significativas dentro de un mundo virtual. En _Minecraft Education_, esta combinación se puede ver en varios niveles:
 
 ### 1. Juego :video_game: + Educación :book:
 
@@ -53,13 +51,18 @@ Según Manovich, la hibridación ocurre cuando las propiedades y técnicas exclu
 
 ### 	:bulb: Conclusión
 
-Minecraft Education Edition no es simplemente un videojuego educativo. Es un ejemplo claro de cómo el software permite la convergencia de medios distintos en una experiencia coherente, funcional y culturalmente significativa. Gracias a la posibilidad de manipular datos, automatizar procesos y representar conocimientos en un entorno lúdico, se rompe la separación entre juego, educación, programación y colaboración social juntando todos estos pilares en único medio que no sería posible sin la lógica computacional.
+Minecraft Education  no es simplemente un videojuego educativo. Es un ejemplo claro de cómo el software permite la convergencia de medios distintos en una experiencia coherente, funcional y culturalmente significativa. Gracias a la posibilidad de manipular datos, automatizar procesos y representar conocimientos en un entorno lúdico, se rompe la separación entre juego, educación, programación y colaboración social juntando todos estos pilares en único medio que no sería posible sin la lógica computacional.
 
 ## Flight Simulator como medio híbrido: Caso 2
 ![Imágen de MS Flight Simulator](https://flightsimulator.azureedge.net/wp-content/uploads/2024/09/MSFS2024_Wallpaper_Desktop-Wide_2560x1440_RGB-2048x1152.jpg)
 ### Introducción
 
 *Microsoft Flight Simulator* es un claro ejemplo de cómo el software hibrida múltiples medios para generar una experiencia inmersiva y educativa. No se trata solo de un simulador de vuelo: combina datos meteorológicos en tiempo real, mapas satelitales, modelado 3D de ciudades y aeropuertos, inteligencia artificial para tráfico aéreo, y una plataforma multijugador donde personas de todo el mundo se conectan para compartir rutas, aprender a pilotar o simplemente explorar el planeta desde el aire.
+
+### Microsoft Flight Simulator como medio híbrido
+
+*Microsoft Flight Simulator* va más allá de un simple videojuego de simulación. A continuación, se detallan los principales ejes de hibridación presentes en esta plataforma.
+
 
 ### 1. Simulación  :exploding_head: + Cartografía digital  :world_map:
 
