@@ -19,7 +19,7 @@ Ambos ejemplos muestran cómo el software puede unir funciones de medios distint
 El objetivo de este ensayo es analizar en profundidad cómo estos dos medios representan casos actuales de hibridación según los criterios establecidos por Manovich, prestando atención tanto a sus componentes técnicos como a las experiencias que generan en los usuarios.
 
 
-## Hibridación mediática en Minecraft Education Edition: Caso 1
+## Minecraft Education Edition como medio híbrido: Caso 1
 
 ![Imágen de minecraf education](https://store-images.s-microsoft.com/image/apps.27324.13510798887411471.ef8a86a2-0c72-4a81-a3f0-3aa5515cca32.fbb81079-474d-4c89-84eb-f57f71b89f74?h=720)
 
